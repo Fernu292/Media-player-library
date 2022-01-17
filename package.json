@@ -1,0 +1,20 @@
+{
+  "name": "curso-profesional-js",
+  "version": "1.0.0",
+  "description": "Curso profesional de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "Profesional",
+    "Js",
+    "TS"
+  ],
+  "author": "Luis Fernando <fernu292@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
